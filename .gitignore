@@ -1,0 +1,16 @@
+node_modules/
+dist/
+*.tsbuildinfo
+shared/
+webapis/
+presentacion/
+*.log
+
+.env
+.env.*
+!.env.example
+!.env.docker
+
+install-all.bat
+start-all.bat
+stop-all.bat
